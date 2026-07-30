@@ -1,0 +1,29 @@
+{
+  "app": {
+    "name": "Gerador de Sensi VIP",
+    "version": "1.0.0",
+    "author": "MestreXit.ia",
+    "description": "Gerador profissional de sensibilidade para Free Fire"
+  },
+  "firebase": {
+    "apiKey": "AIzaSyBbAi70USOFBT9ytiRJ9AcGC6HIkvad3n8",
+    "authDomain": "gerador-de-sensi-d3431.firebaseapp.com",
+    "databaseURL": "https://gerador-de-sensi-d3431-default-rtdb.firebaseio.com",
+    "projectId": "gerador-de-sensi-d3431",
+    "storageBucket": "gerador-de-sensi-d3431.firebasestorage.app",
+    "messagingSenderId": "164254979656",
+    "appId": "1:164254979656:web:32b0815c31224a9cc2aa7d",
+    "measurementId": "G-9D6Q472DCH"
+  },
+  "defaults": {
+    "sensibilidadeHorizontal": 50,
+    "sensibilidadeVertical": 50,
+    "velocidadeMira": 50
+  },
+  "theme": {
+    "primary": "#ff8c00",
+    "secondary": "#00d4ff",
+    "accent": "#ff00ff",
+    "dark": "#0a0a1a"
+  }
+}
